@@ -1,0 +1,23 @@
+Package: legal-concerns
+Type: Package
+Title: Open Science & Legal Concerns Course
+Version: 2.0
+Authors@R: c(
+    person(given   = "Olivier",
+           family  = "Norvez",
+           role    = c("aut", "cre", "cph"),
+           email   = "olivier.norvez@data-terra.org",
+           comment = c(ORCID = "0000-0001-7696-3493")))
+Description: Quarto slides of the course 'Open Science & Legal Concerns - 
+    Why and how share, use and reuse biodiversity data?'. These slides are part
+    of the training course 'Biodiversity data - From data collection to 
+    publication' organized by FRB-CESAB, PNDB & GBIF France since 2024.
+URL: https://github.com/biodiversitydata/legal-concerns
+BugReports: https://github.com/biodiversitydata/legal-concerns/issues
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    knitr,
+    rmarkdown

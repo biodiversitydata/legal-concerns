@@ -1,0 +1,212 @@
+## Legal context in France
+
+:::: {.columns}
+
+::: {.column width=80%}
+<br />
+The Law for a Digital Republic (**_LOI n° 2016-1321 pour une République Numérique (1)_**) is a French law promulgated on October 7, 2016. &nbsp;[{{< fa globe >}}](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746)
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=10%}
+![](images/journaux-officiels.jpg)
+:::
+
+::::
+
+
+#### Article 30
+
+> **This article grants authors the right to disseminate their research in open access.**
+
+
+#### Article 533-4
+
+::: {.small}
+- **I.** Lorsqu’un écrit scientifique issu d’une activité de recherche financée au moins pour moitié par des dotations de l’État, des collectivités territoriales ou des établissements publics, par des subventions d’agences de financement nationales ou par des fonds de l’Union européenne est publié dans un périodique paraissant au moins une fois par an, **SON AUTEUR DISPOSE, MÊME APRÈS AVOIR ACCORDÉ DES DROITS EXCLUSIFS À UN ÉDITEUR, DU DROIT DE METTRE À DISPOSITION GRATUITEMENT DANS UN FORMAT OUVERT**, par voie numérique, sous réserve de l’accord des éventuels coauteurs, la **VERSION FINALE DE SON MANUSCRIT ACCEPTÉE POUR PUBLICATION**, dès lors que l’éditeur met lui-même celle ci gratuitement à disposition par voie numérique ou, à défaut, à l’expiration d’un délai courant à compter de la date de la première publication. Ce délai est au **MAXIMUM DE SIX MOIS** pour une publication dans le domaine des sciences, de la technique et de la médecine et de douze mois dans celui des sciences humaines et sociales.
+- La version mise à disposition en application du premier alinéa ne peut faire l’objet d’une exploitation dans le cadre d’une activité d’édition à caractère commercial.
+- **II.** Dès lors que les **DONNÉES ISSUES D’UNE ACTIVITÉ DE RECHERCHE FINANCÉE AU MOINS POUR MOITIÉ PAR DES DOTATIONS DE L’ÉTAT**, des collectivités territoriales, des établissements publics, des subventions d’agences de financement nationales ou par des fonds de l’Union européenne ne sont pas protégées par un droit spécifique ou une réglementation particulière et qu’elles ont été rendues publiques par le chercheur, l’établissement ou l’organisme de recherche, leur **RÉUTILISATION EST LIBRE**.
+- **III.** L’éditeur d’un écrit scientifique mentionné au I ne peut limiter la réutilisation des données de la recherche rendues publiques dans le cadre de sa publication.
+- **IV.** Les dispositions du présent article sont d’ordre public et toute clause contraire à celles-ci est réputée non écrite. 
+:::
+
+
+
+## Legal context in France
+
+:::: {.columns}
+
+::: {.column width=80%}
+<br />
+The Law for a Digital Republic (**_LOI n° 2016-1321 pour une République Numérique (1)_**) is a French law promulgated on October 7, 2016. &nbsp;[{{< fa globe >}}](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000033202746)
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=10%}
+![](images/journaux-officiels.jpg)
+:::
+
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width=45%}
+![[Guide d’application de la Loi](https://www.ouvrirlascience.fr/guide-dapplication-de-la-loi-pour-une-republique-numerique-pour-les-donnees-de-la-recherche/)](images/guide-loi.png){width=60% fig-align='center'}
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+<br />
+
+This Law addresses the following elements:
+
+- Accessibility
+- Open Data and Data Portability
+- Free software and Open formats
+- Copyright issues
+- Digital access for all
+- Sovereign operating system (OS)
+- Privacy
+- etc.
+
+:::
+
+::::
+
+
+## Open science
+
+<br/><br/>
+
+:::: {.columns}
+
+::: {.column width=45%}
+<br/><br/><br/>
+
+Open Science represents a new approach to the scientific process **based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools**.
+
+{{< fa quote-left >}} &nbsp;[European Commission, n.d.](https://eosc-hub.eu/open-science-info)
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+![Adapted from [EOSC-Hub](https://eosc-hub.eu/open-science-info)](images/umbrella.png){width=60% fig-align='center'}
+:::
+
+::::
+
+
+## Open science
+
+
+:::: {.columns}
+::: {.column width=35%}
+![](images/eosc-logo.png){width=40% fig-align='left'}
+
+The ambition of the **European Open Science Cloud**, known as EOSC, is to develop a **Web of FAIR Data and Services** for science in Europe. The implementation of EOSC is based on a long-term process of alignment and coordination pursued by the Commission since 2015.
+
+:::
+
+::: {.column width=5%}
+:::
+
+::: {.column width=60%}
+![**Source:** [EOSC-Hub](https://eosc-hub.eu/open-science-info)](images/eosc-diagram.png){width=100% fig-align='center'}
+:::
+
+::::
+
+
+
+## Open science
+
+
+:::: {.columns}
+::: {.column width=50%}
+**Missions**
+
+- To ensure the coordinated implementation, with higher education and research institutions, of the national open science strategy
+- To enable the development of open science skills within the scientific community
+- To coordinate France's actions in the field of open science at the European and international level
+- Define the principles and guidelines for the use of funds from the National Open Science Fund
+- Define the principles and guidelines for negotiations with the main publishers of scientific publications 
+- To propose to the ministers responsible for research and higher education and to public authorities all actions likely to strengthen or promote access to knowledge, data, software and source code for research
+:::
+
+::: {.column width=5%}
+:::
+
+::: {.column width=45%}
+![](images/Logo-Ouvrir_la_science_!-noir-2022.svg.png){width=90% fig-align='center'}
+
+![](images/guidesOuvrirLaScience.png){width=90% fig-align='center'}
+
+<br/>
+
+![](images/Republique-francaise-logo.png){width=90% fig-align='center'}
+:::
+
+::::
+
+
+
+## Licenses
+
+:::: {.columns}
+
+::: {.column width=50%}
+![](images/etalab.png){width=40% fig-align='left'}
+![](images/licence-ouverte.gif){width=40% fig-align='right'}
+:::
+
+::: {.column width=50%}
+![](images/cc.png){width=60% fig-align='center'}
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width=50%}
+**Etalab 2.0**[^1]: A license that fits within an international context by being compatible with the standards of Open Data licenses developed abroad and in particular those of the British government (Open Government Licence) as well as other international standards (ODC-BY, CC-BY 4.0).
+
+<br/>
+
+::: {.small}
+**Resources:** <https://www.etalab.gouv.fr/licence-ouverte-open-licence/>
+:::
+:::
+
+::: {.column width=50%}
+**CC-BY 4.0**: This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. CC BY includes the following elements: BY: credit must be given to the creator.
+
+
+<br/>
+
+::: {.small}
+**Resources:** <https://creativecommons.org/share-your-work/cclicenses/>
+:::
+
+:::
+
+::::
+
+
+[^1]: As part of the Government's policy to promote open data, Etalab has designed the "Open License". This license, developed in consultation with all stakeholders, facilitates and encourages the reuse of publicly available data.
+
+
+## And you? Are you FAIR and Open?
+
+![](images/fair.jpg){width=20% fig-align='right'}
+
+![**Source::** [The Open Science Training Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/)](images/open_concepts_and_principles.png){width=80% fig-align='center'}
