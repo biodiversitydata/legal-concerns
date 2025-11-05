@@ -158,6 +158,10 @@ The ambition of the **European Open Science Cloud**, known as EOSC, is to develo
 
 ::::
 
+## Open science
+
+![](images/OpenScienceTaxonomy.png){width=100% fig-align='center'}
+- Figure from [Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)
 
 
 ## Licenses
