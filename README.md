@@ -82,7 +82,7 @@ To understand the file organisation of this repository, please read this [Wiki](
 
 ## Citation
 
-Norvez O & Le Bras Y (2025) Open science & Legal concerns: Why and how share, use and reuse biodiversity data?. Online presentation available at <https://github.com/biodiversitydata/legal-concerns/>.
+Norvez O & Le Bras Y (2026) _Open science & Legal concerns: Why and how share, use and reuse biodiversity data?_ Online presentation available at <https://github.com/biodiversitydata/legal-concerns/>.
 
 
 ## Contributing
