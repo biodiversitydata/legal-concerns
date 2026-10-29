@@ -414,22 +414,50 @@ https://learning.nceas.ucsb.edu/2023-06-delta/session_16.html
 
 <!-- page -->
 
-## Open data for rare and threatened Species & habitat ?
+## Rare and threatened Species
 
-**Context and issues**
-
+:::: {.columns}
+::: {.column width=50%}
 >The geographic coordinates of species sightings, habitat data, and breeding sites are often vital to conservation efforts, but they can also be misused, especially in the context of poaching and illegal wildlife trade. Researchers and conservationists face a delicate balance between making data openly available for the advancement of science and protecting the species they aim to conserve[^stewart]
 
 >Web-accessible biodiversity databases accept and openly share species observations from the public, benefitting research, conservation, and education. However, public data sharing can also bring harm, for example by facilitating poaching. Databases may mitigate harm by designating certain species as “sensitive” and restricting access to those species data[^Kaehrle].
-
-![](images/image-iucn.png){width=40% fig-align='center'}
+:::
+::: {.column width=50%}
+![](images/image-iucn.jpg){width=100% fig-align='center'}
+:::
+::::
 
 [^stewart]: [Stewart (2025)](https://aquila.usm.edu/smirc/2025/1/5/)
 [^Kaehrle]: [Kaehrle & Eschenfelder (2025)](https://doi.org/10.1002/pra2.1259)
 
+<!-- page -->
+
+## Rare and threatened Species
+
+***In France***
+
+:::: {.columns}
+::: {.column width=40%}
+> « En ce qui concerne les données de biodiversité, l’article L.411-1-A du Code de l’environnement prévoit que : « les
+données brutes contenues dans les inventaires mentionnés au présent article sont diffusées comme des données
+publiques gratuites et librement réutilisables, sauf si leur diffusion porte atteinte aux intérêts mentionnés aux 1°
+à 4° du I de l’article L. 124-4. Les conditions dans lesquelles la diffusion des données prévue au présent alinéa peut
+être restreinte pour des motifs de protection de l’environnement sont précisées par décret. »
+:::
+::: {.column width=60%}
+![](images/image-sinp-sensible.png){width=90% fig-align='center'}
+:::
+::::
+
+From [Ichter *et al.* (2024)](https://hal.science/hal-04395647v3/document) 
+
+
+<!-- page -->
+
+
 ## General Data Protection Regulation - GDPR
 
-### Defintion and perimeter
+### Definition and perimeter
 
 >‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.[^GDPR]
 
