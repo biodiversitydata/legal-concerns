@@ -387,11 +387,11 @@ https://learning.nceas.ucsb.edu/2023-06-delta/session_16.html
 
 <!-- page -->
 
-# Focus on examples
+# Some Focus
 
 <!-- page -->
 
-## The Nagoya protocol
+## Focus on the Nagoya protocol
 
 :::: {.columns}
 ::: {.column width=60%}
@@ -414,7 +414,7 @@ https://learning.nceas.ucsb.edu/2023-06-delta/session_16.html
 
 <!-- page -->
 
-## Rare and threatened Species
+## Focus on Rare and Threatened Species
 
 :::: {.columns}
 ::: {.column width=50%}
@@ -432,7 +432,7 @@ https://learning.nceas.ucsb.edu/2023-06-delta/session_16.html
 
 <!-- page -->
 
-## Rare and threatened Species
+## Focus on Rare and Threatened Species
 
 ***In France***
 
@@ -455,27 +455,33 @@ From [Ichter *et al.* (2024)](https://hal.science/hal-04395647v3/document)
 <!-- page -->
 
 
-## General Data Protection Regulation - GDPR
+## Focus on General Data Protection Regulation - GDPR
 
-### Definition and perimeter
-
->‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.[^GDPR]
-
->The acronym GDPR stands for "General Data Protection Regulation." The GDPR governs the processing of personal data within the territory of the European Union.<br/>
-The legal landscape is adapting to keep pace with developments in technology and society (such as the growing use of digital tools and the expansion of e-commerce).<br/>
-This new European regulation builds upon the French Data Protection Act of 1978 (*Loi Informatique et Libertés*) and strengthens the control individuals have over how their personal data is used.<br/>
-It harmonizes rules across Europe by providing a single legal framework for businesses, enabling them to develop their digital activities within the EU by fostering user trust[^CNIL].
- 
-
-[^CNIL] : [CNIL](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on)
-[^GDPR] : [GDPR](https://gdpr-info.eu/art-4-gdpr/)
-
-## General Data Protection Regulation - GDPR
-
-### Principles
+**Definition and perimeter**
 
 :::: {.columns}
 ::: {.column width=70%}
+
+> The acronym **GDPR stands for "General Data Protection Regulation."** The GDPR governs the processing of personal data within the territory of the European Union. <br/>
+
+> ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a **name**, an **identification number**, **location data**, an **online identifier** or to one or more factors specific to the **physical**, **physiological**, **genetic**, **mental**, **economic**, **cultural** or **social identity** of that natural person[^GDPR][^CNIL].<br/>
+
+> It **harmonizes rules across Europe** by providing a single legal framework for businesses, enabling them to develop their digital activities within the EU by fostering user trust.
+:::
+::: {.column width=30%}
+![](images/image-logo-gdpr.jpg){width=100%}
+:::
+::::
+
+[^CNIL]: [CNIL](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on)
+[^GDPR]: [GDPR](https://gdpr-info.eu/art-4-gdpr/)
+
+## General Data Protection Regulation - GDPR
+
+**Principles**
+
+:::: {.columns}
+::: {.column width=40%}
 - Principles relating to processing of personal data
 - Lawfulness of processing
 - Conditions for consent
@@ -484,12 +490,13 @@ It harmonizes rules across Europe by providing a single legal framework for busi
 - Processing of personal data relating to criminal convictions and offences
 - Processing which does not require identification
 :::
-::: {.column width=30%}
-![](images/image-logo-gdpr.jpg){width=100%}
+::: {.column width=60%}
+![](images/image-gdpr-principles.jpg){width=100%}
+[Image from UserCentrics](https://usercentrics.com/knowledge-hub/principles-of-gdpr/)
 :::
 ::::
 
-For more information [GDPR](https://gdpr-info.eu/) & [CNIL - *in French*](https://www.cnil.fr/fr/reglement-europeen-protection-donnees)
+For more information [GDPR](https://gdpr-info.eu/) & [CNIL](https://www.cnil.fr/fr/reglement-europeen-protection-donnees)
 
 <!-- page -->
 
