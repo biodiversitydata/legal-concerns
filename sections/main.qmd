@@ -273,11 +273,9 @@ This Law addresses the following elements:
 **Licenses**
 
 :::: {.columns}
-
 ::: {.column width=50%}
 ![](images/cc.png){width=60% fig-align='center'}
 :::
-
 ::: {.column width=50%}
 ![](images/etalab.png){width=40% fig-align='left'}
 ![](images/licence-ouverte.gif){width=40% fig-align='right'}
@@ -285,24 +283,20 @@ This Law addresses the following elements:
 ::::
 
 :::: {.columns}
-
 ::: {.column width=50%}
 **CC-BY 4.0**: This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. CC BY includes the following elements: BY: credit must be given to the creator.
 <br/>
-:::
 
-::: {.small}
-**Resources:** <https://creativecommons.org/share-your-work/cclicenses/>
+[Creative Commons](https://creativecommons.org/share-your-work/cclicenses/)
 :::
 
 ::: {.column width=50%}
 **Etalab 2.0**[^1]: A license that fits within an international context by being compatible with the standards of Open Data licenses developed abroad and in particular those of the British government (Open Government Licence) as well as other international standards (ODC-BY, CC-BY 4.0).
 <br/>
+
+[Etalab](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
 :::
 
-::: {.small}
-**Resources:** <https://www.etalab.gouv.fr/licence-ouverte-open-licence/>
-:::
 ::::
 
 
@@ -464,14 +458,15 @@ From [Ichter *et al.* (2024)](https://hal.science/hal-04395647v3/document)
 
 > The acronym **GDPR stands for "General Data Protection Regulation."** The GDPR governs the processing of personal data within the territory of the European Union. <br/>
 
-> ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a **name**, an **identification number**, **location data**, an **online identifier** or to one or more factors specific to the **physical**, **physiological**, **genetic**, **mental**, **economic**, **cultural** or **social identity** of that natural person[^GDPR][^CNIL].<br/>
-
-> It **harmonizes rules across Europe** by providing a single legal framework for businesses, enabling them to develop their digital activities within the EU by fostering user trust.
+> **‘personal data’** means any information relating to an identified or identifiable natural person (**‘data subject’**); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a **name**, an **identification number**, **location data**, an **online identifier** or to one or more factors specific to the **physical**, **physiological**, **genetic**, **mental**, **economic**, **cultural** or **social identity** of that natural person[^GDPR][^CNIL].<br/>
 :::
+
 ::: {.column width=30%}
 ![](images/image-logo-gdpr.jpg){width=100%}
 :::
 ::::
+
+It **harmonizes rules across Europe** by providing a single legal framework for businesses, enabling them to develop their digital activities within the EU by fostering user trust.
 
 [^CNIL]: [CNIL](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on)
 [^GDPR]: [GDPR](https://gdpr-info.eu/art-4-gdpr/)
