@@ -304,36 +304,83 @@ This Law addresses the following elements:
 
 <!-- page -->
 
-# Ethics
+# Ethics : *the FAIR & CARE principles*
 
-## CARE principles
+![](images/image-FAIR_CARE.png){width=70%}
 
-#### **Definitions**
+<!-- page -->
+
+## Ethics : the *FAIR principles*
+
+*A set of guiding principles for managing research data to make it **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable by humans and machines[^wilkinson][^gofair].*<br/>
 
 :::: {.columns}
-::: {.column width=70%}
->Indigenous data are data, information, and knowledge, in any format, that impact Indigenous Peoples, nations, and communities at the collective and individual levels; data about their resources and environments, data about them as Individuals, and data about them as collectives[^Carroll1],[^Carroll2].<br>
+::: {.column width=25%}
+**To be Findable:**
+
+- (meta)data are assigned a globally unique and persistent identifier<br/>
+- data are described with rich metadata (defined by R1 below)<br/>
+- metadata clearly and explicitly include the identifier of the data it describes<br/>
+- (meta)data are registered or indexed in a searchable resource<br/>
 :::
-::: {.column .center width=30%}
-![](images/image-logo-GIDA.png){width=100%}
+::: {.column width=25%}
+**To be Accessible:**
+
+- (meta)data are retrievable by their identifier using a standardized communications protocol<br/>
+- the protocol is open, free, and universally implementable<br/>
+- the protocol allows for an authentication and authorization procedure, where necessary<br/>
+- metadata are accessible, even when the data are no longer available<br/>
+:::
+::: {.column width=25%}
+**To be Interoperable:**
+
+- (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.<br/>
+- (meta)data use vocabularies that follow FAIR principles<br/>
+- (meta)data include qualified references to other (meta)data<br/>
+:::
+::: {.column width=25%}
+**To be Reusable:**
+
+- meta(data) are richly described with a plurality of accurate and relevant attributes<br/>
+- (meta)data are released with a clear and accessible data usage license<br/>
+- (meta)data are associated with detailed provenance<br/>
+- (meta)data meet domain-relevant community standards<br/>
 :::
 ::::
 
-#### **to go further**
+
+[^wilkinson]: [Wilkinson _et al._ (2017)](https://doi.org/10.1038/sdata.2016.18)
+[^gofair]: [GO FAIR](https://www.gofair.foundation/)
+
+<!-- page -->
+
+## Ethics : the *CARE principles*
+
+**Definition**
+
+:::: {.columns}
+::: {.column width=65%}
+>Indigenous data are data, information, and knowledge, in any format, that impact Indigenous Peoples, nations, and communities at the collective and individual levels; data about their resources and environments, data about them as Individuals, and data about them as collectives[^Carroll1],[^Carroll2].<br>
+
+**to go further**
 
 - [GIDA : Global Indigenous Data Alliance](https://www.gida-global.org/) 
 - [GBIF : Global Biodiversity Information Facility *Open data for people and purpose: GBIF establishes task group on Indigenous data governance*](https://www.gbif.org/news/1Ke3Gk2USgdIW5OgDlBIKY/open-data-for-people-and-purpose-gbif-establishes-task-group-on-indigenous-data-governance) 
 - [GEO : Group on Earth Observation](https://earthobservations.org/groups/geo-indigenous-alliance) 
 - [DoraNum](https://doranum.fr/aspects-juridiques-ethiques/les-principes-care_10_13143_af7s-g015/)
+:::
+::: {.column .center width=35%}
+![](images/image-care.png){width=100%}
+Source: [Carroll _et al._ (2020)](https://doi.org/10.5334/dsj-2020-043)
+:::
+::::
 
 [^Carroll1]: [Carroll _et al._ (2020)](https://doi.org/10.5334/dsj-2020-043)
 [^Carroll2]: [Carroll _et al._ (2021)](https://doi.org/10.1038/s41597-021-00892-0)
 
-https://learning.nceas.ucsb.edu/2023-06-delta/session_16.html
-
 <!-- page -->
 
-## CARE principles
+## Ethics : the *CARE principles*
 
 #### **The Kunming-Montreal Global Biodiversity Framework**
 
@@ -360,9 +407,9 @@ https://learning.nceas.ucsb.edu/2023-06-delta/session_16.html
 
 <!-- page -->
 
-## The FAIR & CARE principles
+## Ethics : The *FAIR & CARE principles*
 
-#### **Differences and complementarities**
+**Differences and complementarities**
 
 :::: {.columns}
 ::: {.column width=70%}
