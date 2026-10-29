@@ -29,6 +29,8 @@ UNESCO asks member States to :
 
 ::::
 
+<!-- page -->
+
 ## Open Science in Europe
 
 **The Open Science by EOSC**
@@ -56,6 +58,7 @@ EOSC will also improve the situation for researchers in many ways, namely by :
 
 ::::
 
+<!-- page -->
 
 ## Open Science in France
 
@@ -76,6 +79,8 @@ EOSC will also improve the situation for researchers in many ways, namely by :
 **4.** Transforming practices to make open science the default principle<br>
 :::
 ::::
+
+<!-- page -->
 
 ## Open Science in France
 
@@ -102,6 +107,95 @@ OSS Strategic objectives :
 **8.** Ensure the transparency of clinical trials<br>
 :::
 ::::
+
+<!-- page -->
+
+## Open science
+
+<br/><br/>
+
+:::: {.columns}
+
+::: {.column width=45%}
+<br/><br/><br/>
+
+Open Science represents a new approach to the scientific process **based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools**.
+
+{{< fa quote-left >}} &nbsp;[European Commission, n.d.](https://eosc-hub.eu/open-science-info)
+:::
+
+::: {.column width=10%}
+:::
+
+::: {.column width=45%}
+![Adapted from [EOSC-Hub](https://eosc-hub.eu/open-science-info)](images/umbrella.png){width=60% fig-align='center'}
+:::
+
+::::
+
+<!-- page -->
+
+## Open science
+
+
+:::: {.columns}
+::: {.column width=35%}
+![](images/eosc-logo.png){width=40% fig-align='left'}
+
+The ambition of the **European Open Science Cloud**, known as EOSC, is to develop a **Web of FAIR Data and Services** for science in Europe. The implementation of EOSC is based on a long-term process of alignment and coordination pursued by the Commission since 2015.
+
+:::
+
+::: {.column width=5%}
+:::
+
+::: {.column width=60%}
+![**Source:** [EOSC-Hub](https://eosc-hub.eu/open-science-info)](images/eosc-diagram.png){width=100% fig-align='center'}
+:::
+
+::::
+
+<!-- page -->
+
+## Open science
+
+
+:::: {.columns}
+::: {.column width=50%}
+**Missions**
+
+- To ensure the coordinated implementation, with higher education and research institutions, of the national open science strategy
+- To enable the development of open science skills within the scientific community
+- To coordinate France's actions in the field of open science at the European and international level
+- Define the principles and guidelines for the use of funds from the National Open Science Fund
+- Define the principles and guidelines for negotiations with the main publishers of scientific publications 
+- To propose to the ministers responsible for research and higher education and to public authorities all actions likely to strengthen or promote access to knowledge, data, software and source code for research
+:::
+
+::: {.column width=5%}
+:::
+
+::: {.column width=45%}
+![](images/Logo-Ouvrir_la_science_!-noir-2022.svg.png){width=90% fig-align='center'}
+
+![](images/guidesOuvrirLaScience.png){width=90% fig-align='center'}
+
+<br/>
+
+![](images/Republique-francaise-logo.png){width=90% fig-align='center'}
+:::
+
+::::
+
+<!-- page -->
+
+## Open science
+
+![](images/OpenScienceTaxonomy.png){width=90% fig-align='center'}
+
+::: {.citation}
+Figure from [Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)
+:::
 
 <!-- page -->
 ## Legal context in France
@@ -187,139 +281,48 @@ This Law addresses the following elements:
 
 ::::
 
-
-## Open science
-
-<br/><br/>
-
-:::: {.columns}
-
-::: {.column width=45%}
-<br/><br/><br/>
-
-Open Science represents a new approach to the scientific process **based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools**.
-
-{{< fa quote-left >}} &nbsp;[European Commission, n.d.](https://eosc-hub.eu/open-science-info)
-:::
-
-::: {.column width=10%}
-:::
-
-::: {.column width=45%}
-![Adapted from [EOSC-Hub](https://eosc-hub.eu/open-science-info)](images/umbrella.png){width=60% fig-align='center'}
-:::
-
-::::
-
-
-## Open science
-
-
-:::: {.columns}
-::: {.column width=35%}
-![](images/eosc-logo.png){width=40% fig-align='left'}
-
-The ambition of the **European Open Science Cloud**, known as EOSC, is to develop a **Web of FAIR Data and Services** for science in Europe. The implementation of EOSC is based on a long-term process of alignment and coordination pursued by the Commission since 2015.
-
-:::
-
-::: {.column width=5%}
-:::
-
-::: {.column width=60%}
-![**Source:** [EOSC-Hub](https://eosc-hub.eu/open-science-info)](images/eosc-diagram.png){width=100% fig-align='center'}
-:::
-
-::::
-
-
-
-## Open science
-
-
-:::: {.columns}
-::: {.column width=50%}
-**Missions**
-
-- To ensure the coordinated implementation, with higher education and research institutions, of the national open science strategy
-- To enable the development of open science skills within the scientific community
-- To coordinate France's actions in the field of open science at the European and international level
-- Define the principles and guidelines for the use of funds from the National Open Science Fund
-- Define the principles and guidelines for negotiations with the main publishers of scientific publications 
-- To propose to the ministers responsible for research and higher education and to public authorities all actions likely to strengthen or promote access to knowledge, data, software and source code for research
-:::
-
-::: {.column width=5%}
-:::
-
-::: {.column width=45%}
-![](images/Logo-Ouvrir_la_science_!-noir-2022.svg.png){width=90% fig-align='center'}
-
-![](images/guidesOuvrirLaScience.png){width=90% fig-align='center'}
-
-<br/>
-
-![](images/Republique-francaise-logo.png){width=90% fig-align='center'}
-:::
-
-::::
-
-## Open science
-
-![](images/OpenScienceTaxonomy.png){width=90% fig-align='center'}
-
-::: {.citation}
-Figure from [Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)
-:::
-
+# Licenses
 
 ## Licenses
 
 :::: {.columns}
 
 ::: {.column width=50%}
-![](images/etalab.png){width=40% fig-align='left'}
-![](images/licence-ouverte.gif){width=40% fig-align='right'}
-:::
-
-::: {.column width=50%}
 ![](images/cc.png){width=60% fig-align='center'}
 :::
 
+::: {.column width=50%}
+![](images/etalab.png){width=40% fig-align='left'}
+![](images/licence-ouverte.gif){width=40% fig-align='right'}
+:::
 ::::
 
 :::: {.columns}
 
 ::: {.column width=50%}
-**Etalab 2.0**[^1]: A license that fits within an international context by being compatible with the standards of Open Data licenses developed abroad and in particular those of the British government (Open Government Licence) as well as other international standards (ODC-BY, CC-BY 4.0).
-
-<br/>
-
-::: {.small}
-**Resources:** <https://www.etalab.gouv.fr/licence-ouverte-open-licence/>
-:::
-:::
-
-::: {.column width=50%}
 **CC-BY 4.0**: This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. CC BY includes the following elements: BY: credit must be given to the creator.
-
-
 <br/>
+:::
 
 ::: {.small}
 **Resources:** <https://creativecommons.org/share-your-work/cclicenses/>
 :::
 
+::: {.column width=50%}
+**Etalab 2.0**[^1]: A license that fits within an international context by being compatible with the standards of Open Data licenses developed abroad and in particular those of the British government (Open Government Licence) as well as other international standards (ODC-BY, CC-BY 4.0).
+<br/>
 :::
 
+::: {.small}
+**Resources:** <https://www.etalab.gouv.fr/licence-ouverte-open-licence/>
+:::
 ::::
 
 
 [^1]: As part of the Government's policy to promote open data, Etalab has designed the "Open License". This license, developed in consultation with all stakeholders, facilitates and encourages the reuse of publicly available data.
 
+# CARE principles
 
 ## And you? Are you FAIR and Open?
-
-![](images/fair.jpg){width=20% fig-align='right'}
 
 ![**Source::** [The Open Science Training Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/)](images/open_concepts_and_principles.png){width=80% fig-align='center'}
