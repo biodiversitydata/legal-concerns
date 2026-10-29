@@ -323,6 +323,78 @@ This Law addresses the following elements:
 
 # CARE principles
 
+## CARE principles
+
+#### **Definitions**
+
+:::: {.columns}
+::: {.column width=70%}
+>Indigenous data are data, information, and knowledge, in any format, that impact Indigenous Peoples, nations, and communities at the collective and individual levels; data about their resources and environments, data about them as Individuals, and data about them as collectives[^Carroll].<br>
+:::
+::: {.column .center width=30%}
+![](images/image-logo-GIDA.png){width=100%}
+:::
+::::
+
+#### **to go further**
+
+- [GIDA : Global Indigenous Data Alliance](https://www.gida-global.org/) 
+- [GBIF : Global Biodiversity Information Facility *Open data for people and purpose: GBIF establishes task group on Indigenous data governance*](https://www.gbif.org/news/1Ke3Gk2USgdIW5OgDlBIKY/open-data-for-people-and-purpose-gbif-establishes-task-group-on-indigenous-data-governance) 
+- [GEO : Group on Earth Observation](https://earthobservations.org/groups/geo-indigenous-alliance) 
+- [DoraNum](https://doranum.fr/aspects-juridiques-ethiques/les-principes-care_10_13143_af7s-g015/)
+
+[^Carroll]: [Carroll _et al._ (2021)](https://doi.org/10.1038/s41597-021-00892-0)
+
+<!-- page -->
+
+## CARE principles
+
+#### **The Kunming-Montreal Global Biodiversity Framework**
+
+:::: {.columns}
+::: {.column width=70%}
+>The Kunming-Montreal Global Biodiversity Framework (KMGBF) was adopted during the fifteenth meeting of the Conference of the Parties (COP 15) [...] Among the Framework’s key elements are 4 goals for 2050 and 23 targets for 2030.<br>
+:::
+::: {.column .center width=30%}
+![](images/image-logo-KMGBF.jpg){width=50%}
+:::
+::::
+
+#### **Target 21** :Ensure That Knowledge Is Available and Accessible To Guide Biodiversity Action
+:::: {.columns}
+::: {.column width=70%}
+>Ensure that the best available data, information and knowledge, are accessible to decision makers, practitioners and the public to guide effective and equitable governance, integrated and participatory management of biodiversity, and to strengthen communication, awareness-raising, education, monitoring, research and knowledge management and, also in this context, **traditional knowledge, innovations, practices and technologies of indigenous peoples and local communities** should only be accessed with their free, prior and informed consent[1], in accordance with national legislation[^CBD].<br>
+:::
+::: {.column .center width=30%}
+![](images/image-target21.png){width=50%}
+:::
+::::
+
+[^CBD]: [CBD (2023)](https://www.cbd.int/gbf/targets/21)
+
+<!-- page -->
+
+## The FAIR & CARE principles
+
+#### **Differences and complementarities**
+
+:::: {.columns}
+::: {.column width=70%}
+>Operationalizing the FAIR Principles for scientific data with the CARE Principles for Indigenous Data Governance enhances machine actionability and brings people and purpose to the fore to resolve Indigenous Peoples’ rights to and interests in their data across the data lifecycle[^Carroll].<br>
+:::
+::: {.column .center width=30%}
+![](images/image-FAIR_CARE2.png){width=60%}
+:::
+::::
+
+![](images/image-FAIR_CARE3.png){width=70%}
+
+>Toward an implementation of the FAIR & CARE Principles across the data lifecycle.
+
+[^Carroll]: [Carroll _et al._ (2021)](https://doi.org/10.1038/s41597-021-00892-0)
+
+<!-- page -->
+
 ## And you? Are you FAIR and Open?
 
 ![**Source::** [The Open Science Training Handbook](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/)](images/open_concepts_and_principles.png){width=80% fig-align='center'}
