@@ -321,7 +321,56 @@ This Law addresses the following elements:
 
 [^1]: As part of the Government's policy to promote open data, Etalab has designed the "Open License". This license, developed in consultation with all stakeholders, facilitates and encourages the reuse of publicly available data.
 
-# CARE principles
+# Ethics and Legals Concerns
+
+## Open data for rare and threatened Species & habitat ?
+
+### Context and issues
+
+>The geographic coordinates of species sightings, habitat data, and breeding sites are often vital to conservation efforts, but they can also be misused, especially in the context of poaching and illegal wildlife trade. Researchers and conservationists face a delicate balance between making data openly available for the advancement of science and protecting the species they aim to conserve[^stewart]
+
+>Web-accessible biodiversity databases accept and openly share species observations from the public, benefitting research, conservation, and education. However, public data sharing can also bring harm, for example by facilitating poaching. Databases may mitigate harm by designating certain species as “sensitive” and restricting access to those species data[^Kaehrle].
+
+![](images/image-iucn.png){width=40% fig-align='center'}
+
+[^stewart]: [Stewart (2025)](https://aquila.usm.edu/smirc/2025/1/5/)
+[^Kaehrle]: [Kaehrle & Eschenfelder (2025)](https://doi.org/10.1002/pra2.1259)
+
+## General Data Protection Regulation - GDPR
+
+### Defintion and perimeter
+
+>‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.[^GDPR]
+
+>The acronym GDPR stands for "General Data Protection Regulation." The GDPR governs the processing of personal data within the territory of the European Union.<br/>
+The legal landscape is adapting to keep pace with developments in technology and society (such as the growing use of digital tools and the expansion of e-commerce).<br/>
+This new European regulation builds upon the French Data Protection Act of 1978 (*Loi Informatique et Libertés*) and strengthens the control individuals have over how their personal data is used.<br/>
+It harmonizes rules across Europe by providing a single legal framework for businesses, enabling them to develop their digital activities within the EU by fostering user trust[^CNIL].
+ 
+
+[^CNIL] : [CNIL](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on)
+[^GDPR] : [GDPR](https://gdpr-info.eu/art-4-gdpr/)
+
+## General Data Protection Regulation - GDPR
+
+### Principles
+
+:::: {.columns}
+::: {.column width=70%}
+- Principles relating to processing of personal data
+- Lawfulness of processing
+- Conditions for consent
+- Conditions applicable to child's consent in relation to information society services
+- Processing of special categories of personal data
+- Processing of personal data relating to criminal convictions and offences
+- Processing which does not require identification
+:::
+::: {.column width=30%}
+![](images/image-logo-gdpr.jpg){width=100%}
+:::
+::::
+
+For more information [GDPR](https://gdpr-info.eu/) & [CNIL - *in French*](https://www.cnil.fr/fr/reglement-europeen-protection-donnees)
 
 ## CARE principles
 
