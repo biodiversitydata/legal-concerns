@@ -270,6 +270,33 @@ This Law addresses the following elements:
 
 ## Legal concerns
 
+:::: {.columns}
+
+::: {.column width=80%}
+
+
+<!-- page -->
+
+## Legal concerns
+
+:::: {.columns}
+::: {.column width=70%}
+
+> "LOI n° 2016-1087 du 8 août 2016 pour la reconquête de la biodiversité, de la nature et des paysages"
+
+:::
+::: {.column width=30%}
+![](images/journaux-officiels.jpg)
+:::
+::::
+
+**Data in this legal framework**[^mte]
+- Leveraging knowledge: **data from impact studies** will be incorporated into the natural heritage inventory.
+- contributing to open data for impact assessment data
+
+[^mte]: [ecologie.gouv.fr](https://www.ecologie.gouv.fr/politiques-publiques/loi-reconquete-biodiversite-nature-paysages)
+<!-- page -->
+
 **Licenses**
 
 :::: {.columns}
