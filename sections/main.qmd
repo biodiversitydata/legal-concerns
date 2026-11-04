@@ -271,31 +271,28 @@ This Law addresses the following elements:
 ## Legal concerns
 
 :::: {.columns}
-
 ::: {.column width=80%}
-
-
-<!-- page -->
-
-## Legal concerns
-
-:::: {.columns}
-::: {.column width=70%}
 
 > "LOI n° 2016-1087 du 8 août 2016 pour la reconquête de la biodiversité, de la nature et des paysages"
 
 :::
-::: {.column width=30%}
-![](images/journaux-officiels.jpg)
+
+::: {.column width=20%}
+![](images/journaux-officiels.jpg){width=60% fig-align='center'}
 :::
+
 ::::
 
 **Data in this legal framework**[^mte]
-- Leveraging knowledge: **data from impact studies** will be incorporated into the natural heritage inventory.
-- contributing to open data for impact assessment data
+
+> - *Leveraging knowledge: data from impact studies will be incorporated into the natural heritage inventory.*
+> - *contributing to open data for impact assessment data*
 
 [^mte]: [ecologie.gouv.fr](https://www.ecologie.gouv.fr/politiques-publiques/loi-reconquete-biodiversite-nature-paysages)
+
 <!-- page -->
+
+## Legal concerns
 
 **Licenses**
 
@@ -350,6 +347,7 @@ This Law addresses the following elements:
 - metadata clearly and explicitly include the identifier of the data it describes<br/>
 - (meta)data are registered or indexed in a searchable resource<br/>
 :::
+
 ::: {.column width=25%}
 **To be Accessible:**
 
@@ -358,6 +356,7 @@ This Law addresses the following elements:
 - the protocol allows for an authentication and authorization procedure, where necessary<br/>
 - metadata are accessible, even when the data are no longer available<br/>
 :::
+
 ::: {.column width=25%}
 **To be Interoperable:**
 
@@ -365,6 +364,7 @@ This Law addresses the following elements:
 - (meta)data use vocabularies that follow FAIR principles<br/>
 - (meta)data include qualified references to other (meta)data<br/>
 :::
+
 ::: {.column width=25%}
 **To be Reusable:**
 
@@ -386,6 +386,7 @@ This Law addresses the following elements:
 **Definition**
 
 :::: {.columns}
+
 ::: {.column width=65%}
 >Indigenous data are data, information, and knowledge, in any format, that impact Indigenous Peoples, nations, and communities at the collective and individual levels; data about their resources and environments, data about them as Individuals, and data about them as collectives[^Carroll1],[^Carroll2].<br>
 
@@ -396,10 +397,12 @@ This Law addresses the following elements:
 - [GEO : Group on Earth Observation](https://earthobservations.org/groups/geo-indigenous-alliance) 
 - [DoraNum](https://doranum.fr/aspects-juridiques-ethiques/les-principes-care_10_13143_af7s-g015/)
 :::
+
 ::: {.column .center width=35%}
 ![](images/image-care.png){width=100%}
 Source: [Carroll _et al._ (2020)](https://doi.org/10.5334/dsj-2020-043)
 :::
+
 ::::
 
 [^Carroll1]: [Carroll _et al._ (2020)](https://doi.org/10.5334/dsj-2020-043)
@@ -415,19 +418,25 @@ Source: [Carroll _et al._ (2020)](https://doi.org/10.5334/dsj-2020-043)
 ::: {.column width=70%}
 >The Kunming-Montreal Global Biodiversity Framework (KMGBF) was adopted during the fifteenth meeting of the Conference of the Parties (COP 15) [...] Among the Framework’s key elements are 4 goals for 2050 and 23 targets for 2030.<br>
 :::
+
 ::: {.column .center width=30%}
 ![](images/image-logo-KMGBF.jpg){width=50%}
 :::
+
 ::::
 
 #### **Target 21** :Ensure That Knowledge Is Available and Accessible To Guide Biodiversity Action
+
 :::: {.columns}
+
 ::: {.column width=70%}
 >Ensure that the best available data, information and knowledge, are accessible to decision makers, practitioners and the public to guide effective and equitable governance, integrated and participatory management of biodiversity, and to strengthen communication, awareness-raising, education, monitoring, research and knowledge management and, also in this context, **traditional knowledge, innovations, practices and technologies of indigenous peoples and local communities** should only be accessed with their free, prior and informed consent[1], in accordance with national legislation[^CBD].<br>
 :::
+
 ::: {.column .center width=30%}
 ![](images/image-target21.png){width=50%}
 :::
+
 ::::
 
 [^CBD]: [CBD (2023)](https://www.cbd.int/gbf/targets/21)
@@ -442,9 +451,11 @@ Source: [Carroll _et al._ (2020)](https://doi.org/10.5334/dsj-2020-043)
 ::: {.column width=70%}
 >Operationalizing the FAIR Principles for scientific data with the CARE Principles for Indigenous Data Governance enhances machine actionability and brings people and purpose to the fore to resolve Indigenous Peoples’ rights to and interests in their data across the data lifecycle[^Carroll].<br>
 :::
+
 ::: {.column .center width=30%}
 ![](images/image-FAIR_CARE2.png){width=60%}
 :::
+
 ::::
 
 ![](images/image-FAIR_CARE3.png){width=70%}
@@ -471,9 +482,11 @@ Source: [Carroll _et al._ (2020)](https://doi.org/10.5334/dsj-2020-043)
 *The Nagoya Protocol on ABS was adopted on 29 October 2010 in Nagoya, Japan and entered into force on 12 October 2014*.
  
 :::
+
 ::: {.column .center width=40%}
 ![](images/image-nagoya.jpg){width=90%}
 :::
+
 ::::
 
 
@@ -490,9 +503,11 @@ Source: [Carroll _et al._ (2020)](https://doi.org/10.5334/dsj-2020-043)
 
 >Web-accessible biodiversity databases accept and openly share species observations from the public, benefitting research, conservation, and education. However, public data sharing can also bring harm, for example by facilitating poaching. Databases may mitigate harm by designating certain species as “sensitive” and restricting access to those species data[^Kaehrle].
 :::
+
 ::: {.column width=50%}
 ![](images/image-iucn.jpg){width=100% fig-align='center'}
 :::
+
 ::::
 
 [^stewart]: [Stewart (2025)](https://aquila.usm.edu/smirc/2025/1/5/)
@@ -512,6 +527,7 @@ publiques gratuites et librement réutilisables, sauf si leur diffusion porte at
 à 4° du I de l’article L. 124-4. Les conditions dans lesquelles la diffusion des données prévue au présent alinéa peut
 être restreinte pour des motifs de protection de l’environnement sont précisées par décret. »
 :::
+
 ::: {.column width=60%}
 ![](images/image-sinp-sensible.png){width=90% fig-align='center'}
 :::
